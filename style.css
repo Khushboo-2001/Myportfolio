@@ -36,20 +36,18 @@ body{
 
 section{
     min-height: 100vh;
-    /* padding: 10rem 9% 2rem; */
+    padding: 10rem 9% 2rem;
     padding: 10rem 9% 2rem;
 }
 
 .header{
 
     position: fixed;
-    top: 0;
-    left: 0%;
     width: 100%;
     padding: 2rem 9%;
     background: black;
     display: flex;
-    justify-content: space-between;
+    justify-content:space-around;
     align-items: center;
     z-index: 100;
 }
